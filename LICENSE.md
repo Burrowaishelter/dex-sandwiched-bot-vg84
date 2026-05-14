@@ -1,4 +1,4 @@
-# 
+# custom Trading Bot for dex sandwiched bot | staking-integration & front-running-detection offers the most advanced dex sandwiched bot, with staking-integration and
 
 
 
